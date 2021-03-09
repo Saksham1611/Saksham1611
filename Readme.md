@@ -4,7 +4,7 @@
 ITS ME,  THINKING MY CODE WILL WORK AUTOMATICALLY IF I STARE IT LONG ENOUGH !!
 ## I'm an average Developer!
 
-![image alt >](./Avatar/imageonline-co-roundcorner.png)
+<!-- ![image alt >](./Avatar/imageonline-co-roundcorner.png) -->
 - 🔭 I’m currently working on my personal portfolio!
 - 🌱 I’m currently working on REST API and Docker 
 - 🥅 2021 Goals: Get a college scholarship
