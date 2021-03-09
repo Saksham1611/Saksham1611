@@ -1,8 +1,8 @@
 ###  Hi there, I'm <h1>Saksham</h1>
-ITS ME,  THINKING MY CODE WILL WORK AUTOMATICALLY IF I STARE IT LONG ENOUGH !!
 <img style="float:right;" src="./Avatar/imageonline-co-roundcorner.png" width="200" height="200">
+ITS ME,  THINKING MY CODE WILL WORK AUTOMATICALLY IF I STARE IT LONG ENOUGH !!
 
-## I'm an average Developer!
+##  I'm an average Developer!
 - 🌱 I’m currently working on REST API and Docker 
 <!-- - 🥅 2021 Goals: Get a college scholarship -->
 
