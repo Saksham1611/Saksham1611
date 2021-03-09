@@ -1,8 +1,6 @@
-<img style="float: right;" src="./Avatar/imageonline-co-roundcorner.png" width="200" height="200">
-
-
 ###  Hi there, I'm <h1>Saksham</h1>
 
+<img style="float: right;" src="./Avatar/imageonline-co-roundcorner.png" width="200" height="200">
 ITS ME,  THINKING MY CODE WILL WORK AUTOMATICALLY IF I STARE IT LONG ENOUGH !!
 ## I'm an average Developer!
 
