@@ -1,22 +1,13 @@
 ###  Hi there, I'm <h1>Saksham</h1>
-
-<img style="float: right;" src="./Avatar/imageonline-co-roundcorner.png" width="200" height="200">
 ITS ME,  THINKING MY CODE WILL WORK AUTOMATICALLY IF I STARE IT LONG ENOUGH !!
+<img style="float:right;" src="./Avatar/imageonline-co-roundcorner.png" width="200" height="200">
+
 ## I'm an average Developer!
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-ITS ME,  THINKING MY CODE   <img style="float: right;" src="./Avatar/imageonline-co-roundcorner.png" width="200" height="200">
-WILL WORK AUTOMATICALLY    
-IF I STARE IT LONG ENOUGH!!
-<!-- ![image alt >](./Avatar/imageonline-co-roundcorner.png) -->
-- 🔭 I’m currently working on my personal portfolio!
 - 🌱 I’m currently working on REST API and Docker 
-- 🥅 2021 Goals: Get a college scholarship
+<!-- - 🥅 2021 Goals: Get a college scholarship -->
 
-### Good books:
 
-- [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger, Adam Wathan
+<!-- - [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger, Adam Wathan
 - [The Docker Handbook](https://docker.farhan.info/) by Farhan Hasin Chowdhury
 
 ### Connect with me:
@@ -55,6 +46,6 @@ IF I STARE IT LONG ENOUGH!!
 [website]: https://rasync.xyz
 [strips]: https://strips.rasync.xyz
 [discord]: https://discordhub.com/profile/162970149857656832
-[twitter]: https://twitter.com/RazerMoonPL
+[twitter]: https://twitter.com/RazerMoonPL -->
 
 
