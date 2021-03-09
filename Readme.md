@@ -2,7 +2,7 @@
 
 ###  Hi there, I'm <h1>Saksham</h1>
 
-ME STARING AT MY CODE AND THINKING IT WOULD WORK AUTOMATICALLY IF i STARE IT LONG ENOUGHP
+ITS ME,  THINKING MY CODE WILL WORK AUTOMATICALLY IF I STARE IT LONG ENOUGH !!
 ## I'm an average Developer!
 
 - 🔭 I’m currently working on my personal portfolio!
