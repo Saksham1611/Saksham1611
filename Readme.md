@@ -1,10 +1,12 @@
 <img style="float: right;" src="./Avatar/imageonline-co-roundcorner.png" width="200" height="200">
 
+
 ###  Hi there, I'm <h1>Saksham</h1>
 
 ITS ME,  THINKING MY CODE WILL WORK AUTOMATICALLY IF I STARE IT LONG ENOUGH !!
 ## I'm an average Developer!
 
+![image alt >](./Avatar/imageonline-co-roundcorner.png)
 - 🔭 I’m currently working on my personal portfolio!
 - 🌱 I’m currently working on REST API and Docker 
 - 🥅 2021 Goals: Get a college scholarship
