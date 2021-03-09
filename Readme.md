@@ -1,11 +1,13 @@
-### Hi there, I'm Saksham  -👋
-<img src="./Avatar/spaceout.jpg">
+<img style="float: right;" src="./Avatar/imageonline-co-roundcorner.png" width="200" height="200">
+
+###  Hi there, I'm <h1>Saksham</h1>
+
+ME STARING AT MY CODE AND THINKING IT WOULD WORK AUTOMATICALLY IF i STARE IT LONG ENOUGHP
 ## I'm an average Developer!
 
 - 🔭 I’m currently working on my personal portfolio!
-- 🌱 I’m currently working on my TypeScript and Docker skills
+- 🌱 I’m currently working on REST API and Docker 
 - 🥅 2021 Goals: Get a college scholarship
-- ⚡ Fun fact: I love to play the piano
 
 ### Good books:
 
