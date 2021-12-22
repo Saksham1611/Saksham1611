@@ -7,8 +7,5 @@
 </p>
 <br>
 <br>
-<br>
-<br>
-<h2> I'm an average Developer!
 - 🌱 I’m currently working on REST API and Docker 
 
