@@ -1,17 +1,19 @@
-###  Hi, I'm <h1>Saksham</h1><img align="left" width="200" height="200" src="./Avatar/imageonline-co-roundcorner.png">
+###  <img src="des.gif">
+<!-- align="left" width="800" height="300" -->
 <br>
 <br>
-<p> <h3>ITS ME, &nbsp THINKING MY CODE WILL</h2>
-    <h3> &nbsp WORK AUTOMATICALLY IF I </h2>
-    <h3> &nbsp &nbsp &nbspSTARE IT LONG ENOUGH !!</h2>
-</p>
-<br>
-<br>
-- 🌱 I’m currently working on REST API and Docker 
+- <h2> 🌱 I’m currently working on REST API and Docker 
 <br>
 <br>
 <br>
 
-🕵️ Profile Visit
+:globe  Connect with me on
+<br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sakshamgupta1611//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://www.twitter.com/guptaS_98/)  
+
+
+<h2>🕵️ Profile Visits 
+ 
 ![Visitor Count](https://profile-counter.glitch.me/{Saksham1611}/count.svg)
 
