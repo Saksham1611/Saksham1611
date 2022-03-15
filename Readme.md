@@ -10,4 +10,4 @@
 <h3> 🌏  Connect with me on
 <br>
 <br>
-<img src='https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FguptaS_98' alt='twitter'>
+<img src='https://img.shields.io/twitter/url?style=social&url=https://twitter.com/guptaS_98' alt='twitter'>
