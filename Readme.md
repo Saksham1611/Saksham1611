@@ -1,6 +1,6 @@
 # 👋 Heyy
 
-![Profile Image](your_profile_image_url.jpg)
+![Profile Image](/Avatar/stare.jpg)
 
 I'm Saksham, a Machine Learning Engineer with an insatiable appetite for code exploration and uncovering golden nuggets hidden within algorithms and datasets. Welcome to my GitHub playground where I tinker, experiment, and share the fruits of my coding adventures.
 
