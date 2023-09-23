@@ -6,7 +6,7 @@ I'm Saksham, a Machine Learning Engineer with an insatiable appetite for code ex
 ## 🌱 Let's Connect
 
 - 📫 You can reach me via email at [Mail](mailto:guptasaksham1611@gmail.com).
-- 💬 Let's chat on [LinkedIn](https://www.linkedin.com/in/saksham1611/).
+- 💬 Let's chat on [LinkedIn](https://www.linkedin.com/in/sakshamgupta1611/).
 - 🐦 Follow me on Twitter: [Twitter](https://twitter.com/capablegupta).
 
 ## 🚀 Let's Collaborate
